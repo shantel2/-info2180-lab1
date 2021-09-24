@@ -1,0 +1,19 @@
+/*Level 1 heading (ie. <h1>) to have a font-size of 24px and font colour to be #38B2AC*/
+
+h1{
+	font-size: 24px;
+	color: #38B2AC;
+}
+
+/*Level 2 heading (ie. <h2>) to have a font-size of 21px and font color to be #5A67D8. */
+
+h2{
+	font-size: 21px;
+	color: #5A67D8;
+}
+
+/*your paragraph (ie. <p>) should have a font-size of 18px */
+
+p{
+	font-size: 18px;
+}
